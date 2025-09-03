@@ -17,10 +17,10 @@ This portfolio is my little corner of the internet where I share **who I am, wha
 - Google Fonts for styling  
 
 ## 🌍 Live Portfolio  
-👉 [Check it out here](https://your-portfolio-link.com)  
+👉 [Check it out here](https://vinoth-46.github.io/portfolio/)  
 
 ## 📬 Let’s Connect  
 If you’d like to collaborate or just say hi, you can reach me at:  
 - Email: vinothuser7@gmail.com  
 - LinkedIn: [vinoth_murugesan](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinoth465/))  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
+- GitHub: [vinoth-46](https://github.com/vinoth-46)  
